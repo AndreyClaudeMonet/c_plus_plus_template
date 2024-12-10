@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/app/build",
+  "command": "/usr/bin/g++  -I/app/src -g -std=gnu++17 -o CMakeFiles/Test.dir/src/main.cpp.o -c /app/src/main.cpp",
+  "file": "/app/src/main.cpp"
+}
+]
